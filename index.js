@@ -2,9 +2,6 @@
 //本地
 var host = "http://127.0.0.1:8080"
 
-//线上   kim1
-// var host = "https://www.tomorrowcat.com:87"
-
 var global_login_url = ""  //全局扫描登录url
 
 
